@@ -2,15 +2,18 @@
 [참고 링크](#참고-링크) <br />
 [Git 사용 가이드(To 자료정리)](#git-사용-가이드to-자료정리) <br />
 
+<br />
+
 ## 참고 링크
 [OpenMRS 데모 사이트](https://demo.openmrs.org) <br />
 [보건의료정보학-의료정보시스템.pdf](http://kocw-n.xcache.kinxcdn.com/data/document/2021/dju/byunseunghwan1006/03-1.pdf) <br />
 [2024년도 기준 EMR 업체 리스트](https://blog.naver.com/ormchart/223836885794) <br />
 
+<br />
+
 ## Git 사용 가이드(To 자료정리)
 
-팀 프로젝트(medibridge) 진행을 위한 기본적인 Git 명령어 가이드입니다. 
-<br />
+팀 프로젝트(medibridge) 진행을 위한 기본적인 Git 명령어 가이드입니다. <br />
 
 ### 1. PC 에 원격 저장소와 연결된 폴더가 없을 경우
 
